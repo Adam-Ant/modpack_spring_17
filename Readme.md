@@ -44,3 +44,8 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * Beekeeping Easy mode
     * Disable copper and tin WorldGen
 * Disable immersive engineering ore, and update news
+* Mekanism:
+    * Half sound volume
+    * Disable ore copper and tin ore gen
+    * Disable update notifications
+    
