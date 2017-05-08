@@ -9,3 +9,10 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
 
 ### V1:
 * Initial release.
+* Applied Energistics:
+    * Power Unit changed to rf
+    * Power usage 1.5x
+    * Wireless base range upped to 32
+    * Charged quartz chance upped to 0.1
+    * Disable update notification
+    
