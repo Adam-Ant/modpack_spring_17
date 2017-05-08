@@ -60,4 +60,6 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
         * Base speed 6 (down from 8)
         * Silk touch quarry 8x expensive (up from 3x)
     * Disable endergenic generator (not sorry Bailey!)
-    
+* Add description to Screenshot Uploader
+* Soul Shards: Disable caged mobs counting towards shard kills
+* TombManyGraves: Death in void will put grave at y=1
