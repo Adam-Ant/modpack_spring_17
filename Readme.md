@@ -30,3 +30,10 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
 * Cofh Core:
     * Disable some warning upon login
     * Generate flat bedrock (replaces betterBedrock mod)
+* Deep Resonance:
+    * Double amount of RCL per ore (400 from 200)
+    * Turn generator volume down to 0.3
+    * RCL Screen module costs 4rf/t (from 6)
+    * Double chance fro ore to spawn in chunk
+    * Generate resonating ore in the ender
+    * Up max vein size from 4 to 6
