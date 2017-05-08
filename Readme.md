@@ -37,3 +37,7 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * Double chance fro ore to spawn in chunk
     * Generate resonating ore in the ender
     * Up max vein size from 4 to 6
+* Eleccore:
+    * Enable fireworks (yay!)
+    * Move durability tooltips to shift only
+    
