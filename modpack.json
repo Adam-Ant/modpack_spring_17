@@ -1,0 +1,80 @@
+{
+  "name" : "BumfuckBday",
+  "title" : "Bumfucks Birthday - CwG Spring '17",
+  "gameVersion" : "1.10.2",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Inventory Tweaks",
+        "description" : "Invenotry sorting and management",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "config/InvTweaks.cfg",
+          "mods/InventoryTweaks*.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "JourneyMap",
+        "description" : "A minimap to show the world around you.",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/journeymap*.jar",
+          "config/journeymap*"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Optifine",
+        "description" : "Shaders and rendering optimizations.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/OptiFine_1.10.2*.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "Screenshot Uploader",
+        "description" : "Automatically upload your screenshots to imgur! Please bind a key for this feature in your options.",
+        "recommendation" : null,
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/ScreenshotUploader*.jar",
+          "config/ScreenshotUploader.cfg"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt",
+      "journeymap/*",
+      "config/BetterAchievements/*.dat"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true -Xmx 12G"
+    ]
+  }
+}
