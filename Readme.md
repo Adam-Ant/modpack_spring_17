@@ -48,4 +48,16 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * Half sound volume
     * Disable ore copper and tin ore gen
     * Disable update notifications
+* RFTools
+    * Dimensions:
+        * Buff dimlet parcel contents
+        * Allow player to delete their own dimensions with /rftool safedel <id>
+        * Buff strongmobs some Morpheus
+    * Miner:
+        * 10x base energy costs
+        * Double item collection costs
+        * Fortune quarry 5x expensive (up from 2x)
+        * Base speed 6 (down from 8)
+        * Silk touch quarry 8x expensive (up from 3x)
+    * Disable endergenic generator (not sorry Bailey!)
     
