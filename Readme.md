@@ -26,7 +26,7 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * Up flower patch size from 6 to 8
     * Decrease mushroom chance to 35, from 40
 * Disable chunk viewer for non OPs, allow OPs to edit chunk loaders
-* Up Compact Machines worldgen chance to 0.001
+* Up Compact Machines worldgen chance to 0.0005
 * Cofh Core:
     * Disable some warning upon login
     * Generate flat bedrock (replaces betterBedrock mod)
@@ -36,7 +36,7 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * RCL Screen module costs 4rf/t (from 6)
     * Double chance fro ore to spawn in chunk
     * Generate resonating ore in the ender
-    * Up max vein size from 4 to 6
+    * Up max Vein size from 4 to 6
 * Eleccore:
     * Enable fireworks (yay!)
     * Move durability tooltips to shift only
