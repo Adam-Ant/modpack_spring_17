@@ -18,3 +18,11 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
 * Blood Magic:
     * Allow waila to see info if divination sigil in inventory
     * Lower damage done from sacraficial dagger to 1 from 2
+* Botania:
+    * Disable Hand of Pickpocket from ender chests
+    * Inverse Ring of Magnetization control (shift to use)
+    * Disable update checking
+    * Up flower patch chance to 20, from 16 (actually decreases spawn chance!)
+    * Up flower patch size from 6 to 8
+    * Decrease mushroom chance to 35, from 40
+    
