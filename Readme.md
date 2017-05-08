@@ -15,4 +15,6 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * Wireless base range upped to 32
     * Charged quartz chance upped to 0.1
     * Disable update notification
-    
+* Blood Magic:
+    * Allow waila to see info if divination sigil in inventory
+    * Lower damage done from sacraficial dagger to 1 from 2
