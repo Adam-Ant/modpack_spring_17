@@ -40,4 +40,6 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
 * Eleccore:
     * Enable fireworks (yay!)
     * Move durability tooltips to shift only
-    
+* Forstry:
+    * Beekeeping Easy mode
+    * Disable copper and tin WorldGen
