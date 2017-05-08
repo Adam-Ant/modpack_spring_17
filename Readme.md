@@ -43,3 +43,4 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
 * Forstry:
     * Beekeeping Easy mode
     * Disable copper and tin WorldGen
+* Disable immersive engineering ore, and update news
