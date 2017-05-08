@@ -69,6 +69,7 @@
       "optionsshaders.txt",
       "journeymap/*",
       "config/BetterAchievements/*.dat",
+      "config/cofh/core/friends.cfg",
       "TooManyGravesData/*",
       "logs/*"
     ],

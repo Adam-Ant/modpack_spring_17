@@ -27,3 +27,6 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * Decrease mushroom chance to 35, from 40
 * Disable chunk viewer for non OPs, allow OPs to edit chunk loaders
 * Up Compact Machines worldgen chance to 0.001
+* Cofh Core:
+    * Disable some warning upon login
+    * Generate flat bedrock (replaces betterBedrock mod)
