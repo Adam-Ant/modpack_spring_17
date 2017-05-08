@@ -77,7 +77,7 @@
   },
   "launch" : {
     "flags" : [
-      "-Dfml.ignoreInvalidMinecraftCertificates=true -Xmx 12G"
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
     ]
   }
 }
