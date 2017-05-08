@@ -25,4 +25,4 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
     * Up flower patch chance to 20, from 16 (actually decreases spawn chance!)
     * Up flower patch size from 6 to 8
     * Decrease mushroom chance to 35, from 40
-    
+* Disable chunk viewer for non OPs, allow OPs to edit chunk loaders
