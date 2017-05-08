@@ -68,7 +68,9 @@
       "options.txt",
       "optionsshaders.txt",
       "journeymap/*",
-      "config/BetterAchievements/*.dat"
+      "config/BetterAchievements/*.dat",
+      "TooManyGravesData/*",
+      "logs/*"
     ],
     "exclude" : [ ]
   },
