@@ -7,6 +7,12 @@ This modpack has been designed with the [SkCraft launcher toolkit](https://githu
 ### **[Modlist](https://docs.google.com/spreadsheets/d/1VaG3hu7ES5mOzQSaSig_gx1PApqXWRn33CkSUM-XvUk/edit#gid=0)**
 ## Changelog
 
+### V1.1:
+* Add Iron Chests
+* Add Actually Additions
+* Update Deep Resonance
+* Removed Screenshot Uploader
+
 ### V1:
 * Initial release.
 * Applied Energistics:
